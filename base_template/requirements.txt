@@ -1,0 +1,11 @@
+aws-cdk.core
+
+aws-cdk.aws-s3
+aws-cdk.aws-s3-notifications
+aws-cdk.aws-dynamodb
+aws-cdk.aws-lambda
+aws-cdk.aws-apigateway
+aws-cdk.aws-cloudwatch
+aws-cdk.aws-iam
+
+aws-cdk.cloudformation-include  ## import existing resource
